@@ -33,6 +33,13 @@
 
 #import <UIKit/UIKit.h>
 
+//! Project version number for ViewUtils.
+FOUNDATION_EXPORT double ViewUtilsVersionNumber;
+
+//! Project version string for ViewUtils.
+FOUNDATION_EXPORT const unsigned char ViewUtilsVersionString[];
+
+
 @interface UIView (ViewUtils)
 
 //nib loading
